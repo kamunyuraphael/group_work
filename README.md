@@ -187,5 +187,3 @@ Distinction (>=88): 2
 * All source programs have been structurally verified inside individual execution branches.
 * Version histories and screenshot assets are stored directly within the root repository.
 * **Reminder:** Every student within this work unit must retrieve a copy of this repository package and individually perform an upload verification steps check onto the personal VIMS portal system layout before the official submission window closes!
-
-```
