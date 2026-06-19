@@ -1,10 +1,8 @@
-```markdown
 # BIT 4220: Assembly Programming — Group Work Session 1
 
-## 👥 Group Metadata & Information
 * **Course:** BIT 4220 Assembly Programming
-* **Submission Date:** 10th June 2026
-* **Group Size:** 4–6 Students
+* **Submission Date:** 21st June 2026
+* **Group Size:** 5–8 Students
 * **Platform Target:** Linux x86_64 (WSL2 / Ubuntu)
 * **Assembler & Linker:** NASM (Netwide Assembler) & GNU Linker (`ld`)
 
@@ -26,7 +24,7 @@ group_work/
 
 ---
 
-## 🛠️ Phase 0: System Environment Setup & Verification
+## 🛠️ Phase 1: System Environment Setup & Verification
 
 To configure and verify the low-level build pipeline inside an Ubuntu/WSL2 terminal, execute the following configuration command:
 
